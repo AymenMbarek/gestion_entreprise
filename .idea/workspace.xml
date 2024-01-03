@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a1b176-46d6-40ac-a5da-0c7d2b94e8a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/ModifyStudentActivity/ModifyStudentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/bluu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/column_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/column_border_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/column_border_transparent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/gradient_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/iimagevilollet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/modification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/table_border_row_column.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/tt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/vioo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_modifier_studiant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/CrudActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/CrudActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/DatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/DatabaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/Studiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/Studiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/StudiantCrudActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/com/example/projet/StudiantCrudActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/modele/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/java/modele/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/table_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/drawable/table_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_company_crud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_company_crud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_crud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_crud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_studiant_crud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projet2 - Copie - Copie/app/src/main/res/layout/activity_studiant_crud.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projet2 - Copie - Copie" />
+  </component>
+  <component name="ProjectId" id="2aSbC5xKSHyR5YmLwlck2kPccBZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Darkk/Desktop/projet50/projet2 - Copie - Copie/projet2 - Copie - Copie",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a1b176-46d6-40ac-a5da-0c7d2b94e8a6" name="Changes" comment="" />
+      <created>1704314796357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704314796357</updated>
+    </task>
+    <servers />
+  </component>
+</project>
